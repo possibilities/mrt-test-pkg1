@@ -12,7 +12,7 @@ There are 4 branches
 
     * Output: Test package 1: branch/test-branch
 
-  * A branch called `test-tag` to test pointing to a tag in a smart package repo
+  * A branch called `test-tag` with a tag called `test-tag` to test pointing to a tag in a smart package repo
 
     * Output: Test package 1: tag/test-tag
 
