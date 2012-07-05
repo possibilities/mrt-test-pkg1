@@ -1,1 +1,1 @@
-console.log('Test package 1: ref');
+console.log('Test package 1 installed (ref)');
