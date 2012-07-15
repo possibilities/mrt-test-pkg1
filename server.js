@@ -1,1 +1,1 @@
-console.log('Test package 1 installed (take 2!)');
+console.log('Test package 1 installed (take 3!)');
