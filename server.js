@@ -1,1 +1,1 @@
-console.log('Test package 1 installed (tag/test-tag-1)');
+console.log('Test package 1 installed (version 0.1.0)');
