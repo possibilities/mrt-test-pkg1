@@ -3,7 +3,7 @@
   "description": "This is a smart package used for testing mrt",
   "homepage": "https://github.com/possibilities/mrt-test-pkg1",
   "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "git": "https://github.com/possibilities/mrt-test-pkg1.git",
   "visible": false
 }
