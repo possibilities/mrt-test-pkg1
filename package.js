@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "mrt test package 1 v1.7.0"
+  summary: "mrt test package 1 v1.7.1"
 });
 
 Package.on_use(function (api) {
