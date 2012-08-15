@@ -1,1 +1,1 @@
-console.log('Test package 1 installed (version 1.7.1)');
+console.log('Test package 1 installed (version 1.7.2)');
